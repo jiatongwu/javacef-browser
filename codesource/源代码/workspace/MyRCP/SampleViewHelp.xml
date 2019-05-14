@@ -1,8 +1,0 @@
-  
-   <contexts> 
-      <context  id="SampleViewContextId"> 
-        <description> 这是一个帮助示例.</description> 
-        <topic href="html/samples/maintopic.html"  label="主题1"/> 
-        <topic href="html/samples/subtopic.html"  label="主题2"/> 
-      </context> 
-    </contexts> 

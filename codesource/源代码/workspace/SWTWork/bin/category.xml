@@ -1,8 +1,0 @@
-<categories>
-  <category id="1" parentID="-1" key ="FRIEND" name="朋友"/>
-  <category id="2" parentID="-1" key ="STUFF" name="同事"/>
-  <category id="3" parentID="-1" key ="HONEY" name="家人"/>
-  <category id="4" parentID="-1" key ="CLASSMATE" name="同学"/>
-  <category id="5" parentID="1" key ="HIGHSCHOOL" name="高中同学"/>
-  <category id="6" parentID="1" key ="COLLEAGE" name="大学同学"/>
-</categories>
